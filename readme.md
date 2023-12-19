@@ -18,7 +18,7 @@ Explore the application for the TaskManager API [here](https://todoapp-frontend.
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your_username/task-manager.git
+   git clone https://github.com/DevHami/task-manager-backend.git
    cd task-manager
    ```
 
